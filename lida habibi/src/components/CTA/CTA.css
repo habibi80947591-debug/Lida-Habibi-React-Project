@@ -1,0 +1,1 @@
+.cta{padding:5rem 0}.cta__box{background:var(--accent);padding:5rem;border-radius:2rem}.cta h2{font:600 clamp(3rem,7vw,7rem)/.9 "Space Grotesk",sans-serif;letter-spacing:-.06em;max-width:900px;margin:1.2rem 0}.cta p:not(.eyebrow){max-width:550px;line-height:1.6;margin-bottom:2rem}@media(max-width:600px){.cta__box{padding:2.5rem 1.5rem}}
